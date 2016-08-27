@@ -9,4 +9,9 @@ public class Hello {
     public String sayHello() {
         return "hello";
     }
+
+    public void editFromGit(){
+        // edit from git
+    }
+
 }
