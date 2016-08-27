@@ -10,6 +10,8 @@ public class Hello {
         return "hello";
     }
 
-
+    public void editFromGit(){
+        // edit from git
+    }
 
 }
