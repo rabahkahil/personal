@@ -12,5 +12,6 @@ public class Hello {
 
     public void editFromGit(){
         // edit from git with commit
+        // edit from IDE
     }
 }
